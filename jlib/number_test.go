@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/blues/jsonata-go/jlib"
-	"github.com/blues/jsonata-go/jtypes"
+	"github.com/ddebrunner/jsonata-go/jlib"
+	"github.com/ddebrunner/jsonata-go/jtypes"
 )
 
 func TestRound(t *testing.T) {

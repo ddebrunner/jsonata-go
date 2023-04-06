@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/blues/jsonata-go/jlib"
-	"github.com/blues/jsonata-go/jtypes"
+	"github.com/ddebrunner/jsonata-go/jlib"
+	"github.com/ddebrunner/jsonata-go/jtypes"
 )
 
 func TestFromMillis(t *testing.T) {

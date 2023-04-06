@@ -13,8 +13,8 @@ import (
 	"testing"
 	"unicode/utf8"
 
-	"github.com/blues/jsonata-go/jlib"
-	"github.com/blues/jsonata-go/jtypes"
+	"github.com/ddebrunner/jsonata-go/jlib"
+	"github.com/ddebrunner/jsonata-go/jtypes"
 )
 
 var typereplaceCallable = reflect.TypeOf((*replaceCallable)(nil)).Elem()
